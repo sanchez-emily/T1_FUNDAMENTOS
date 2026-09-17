@@ -1,6 +1,6 @@
     import java.util.Random;
 
-public class SimulacionDados {
+public class Ejercicio4 {
 
     // Atributos
     private static final int TOTAL_TIROS = 36000000;
